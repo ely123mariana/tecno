@@ -1,0 +1,172 @@
+
+.p
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #F7819F;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	left: 10%;
+
+}
+
+.p
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	left: 10%;
+}
+
+.p:hover
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #EF8E69;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	left: 10%;
+	   }
+.p1
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 30%;
+}
+.p1:hover
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #EF8E69;
+	border-radius: 30px 30px 30px / 30px 30px; // con hover
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 30%;
+}
+
+.p2
+{
+    position: absolute;
+	display: block;
+	top: 50%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 10%;
+}
+.p2:hover
+{
+    position: absolute;
+	display: block;
+	top: 50%;
+	background-color: #EF8E69; // cambiar color
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 10%;
+}
+
+.p3
+{
+    position: absolute;
+	display: block;
+	top: 50%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 30%;
+}
+.p3:hover
+{
+    position: absolute;
+	display: block;
+	top: 50%;
+	background-color: #EF8E69; // cambiar color
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 30%;
+}
+.a {
+ 
+  position: absolute;
+  right:410px;
+  top:67px;
+  width:515px;
+  font-family: cursive;
+  font-size:50px;
+ color:#884EA0;
+}
+.i{
+position: absolute;
+	top: 500px;
+	left: 650px;
+	width: 310px;
+	height: 340px;
+	border-radius: 60%;
+}
+
+
+
+.b{
+  background-color: #AED6F1;
+  right:410px;
+  top:410px;
+width:1360px;
+  height: 650px;
+}
+.c{
+	position: absolute;
+	background-color:#F5EA9E;
+  right:8px;
+  top:80px;
+width:90000px;
+  height: 60px;
+}
+.d{
+position: absolute;
+background-color:#ED83D2;
+right:5px;
+  top:510px;
+width:2000px;
+  height: 50px;
+}
+.e{
+ position: absolute;
+  right:320px;
+  top:495px;
+  width:500px;
+  font-family: cursive;
+  font-size:50px;
+ color:#3E95EA;
+}
+
+
+
+
+

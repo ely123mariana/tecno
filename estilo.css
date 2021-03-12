@@ -1,0 +1,205 @@
+
+body{
+	background: url("fondo.png");
+}
+
+
+#banner{
+	width: 80%;
+	height: 50%;
+	margin-left: 10%;
+}
+#captura{
+	width: 180%;
+	height: 90%;
+	margin-left: 40%;
+}
+
+
+
+
+#boton1{
+	margin-left: 10%;
+	font-size: 250%;
+	color: black;
+	font-family: cursive;
+	text-decoration: none;
+}
+
+#boton1:hover{
+	color:#7D3C98;
+}
+
+#boton2{
+	margin-left: 40%;
+	margin-top: 2%;
+	position: absolute;
+	color: black;
+	font-size: 230%;
+	font-family: cursive;
+	text-decoration: none;
+}
+
+#boton2:hover{
+
+	color: #7D3C98;
+}
+
+
+
+
+
+#entregasperiodo{
+	list-style: none;
+	text-align: center;
+	font-family: cursive;
+	padding: 5%;
+	margin-top: -5%;
+}
+
+#periodo1{
+	font-size: 330%;
+	list-style: none;
+	position: absolute;
+	background: url("moldeboton.jpeg");
+	background-repeat: no-repeat;
+	width: 24%; 
+	height: 24%;
+	margin-left: 5%;
+	padding: 1%;
+
+}
+
+#periodo1:hover{
+	transition: all 0.1s;
+	color: #C7E3EA;
+	background: url("moldentregas.jpeg");
+	background-repeat: no-repeat;
+	height: 90%;
+}
+
+#periodo2{
+	list-style: none;
+	font-size: 330%;
+	background: url("moldeboton.jpeg");
+	background-repeat: no-repeat;
+	margin-left: 33%;
+	position: absolute;
+	width: 24%; 
+	height: 24%;
+	padding: 1%;
+}
+
+#periodo2:hover{
+	transition: all 0.1s;
+	color: #EACCC7;
+	background: url("moldentregas.jpeg");
+	background-repeat: no-repeat;
+	height: 90%;
+}
+
+#periodo3{
+	list-style: none;
+	font-size: 330%;
+	background: url("moldeboton.jpeg");
+	background-repeat: no-repeat;
+	width: 24%; 
+	height: 24%;
+	margin-left: 60%;
+	position: absolute;
+	padding: 1%;
+}
+
+#periodo3:hover{
+	color: #D4F4C0;
+	transition: all 0.1s;
+	background: url("moldentregas.jpeg");
+	background-repeat: no-repeat;
+	height: 90%;
+}
+
+
+
+#entregasp1 li{
+	list-style: none;
+	padding: 12%;
+}
+
+#entregasp1 a{
+	
+	color: black; 
+	text-decoration: none;
+	font-size: 50%;
+	text-align: center;
+	position: absolute;
+	display: none;
+}
+
+#periodo1:hover #entregasp1 a{
+	display: block;
+}
+
+#entregasp1 li :hover{
+	transition: all 0.5s;
+	color: #C7E3EA;
+	font-size: 55%;
+}
+
+#entregasp2 a{
+	color: black;
+	list-style: none;
+	text-decoration: none;
+	font-size: 50%;
+	text-align: center;
+	position: absolute;
+	display: none;
+}
+
+#entregasp2 li{
+	list-style: none;
+	padding: 12%;
+}
+
+#entregasp2 li :hover{
+	transition: all 0.5s;
+	color: #EACCC7;
+	font-size: 55%;
+}
+
+#periodo2:hover #entregasp2 a{
+	display: block;
+}
+
+#entregasp3 a{
+	color: black;
+	list-style: none;
+	text-decoration: none;
+	font-size: 50%;	
+
+	text-align: center;
+	position: absolute;
+	display: none;
+}
+
+#entregasp3 li{
+	list-style: none;
+	padding: 12%;
+}
+
+#entregasp3 li :hover{
+	transition: all 0.5s;
+	color: #D4F4C0;
+	font-size: 55%;
+}
+
+#periodo3:hover #entregasp3 a{
+	display: block;
+}
+#mr{
+width: 50%;
+height: 150px;
+
+
+
+
+}

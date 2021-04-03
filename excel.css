@@ -1,0 +1,449 @@
+.co1{
+	position: absolute;
+	top: 390%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color: #000000 ;
+	border-style: solid;
+	color: #F1A6A1 ;
+
+}
+.coo1{
+	position: absolute;
+	top: 180%;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo11{
+	position: absolute;
+	top: 180%;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo111{
+	position: absolute;
+	top: 400%;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co1:hover .coo1{
+	display: block;
+}
+.co1:hover .coo11{
+	display: block;
+}
+.co1:hover .coo111{
+	display: block;
+}
+.co2{
+	position: absolute;
+	top: 400%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color:#000000;
+	border-style: solid;
+	color: #F1ECA1 ;
+	
+}
+
+.coo2{
+	position: absolute;
+	top: 50.5%;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo22{
+	position: absolute;
+	top: 50.5%;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo222{
+	position: absolute;
+	top: 270%;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co2:hover .coo2{
+	display: block;
+}
+.co2:hover .coo22{
+	display: block;
+}
+.co2:hover .coo222{
+	display: block;
+}
+
+.co3{
+	position: absolute;
+	top: 410%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color:#000000;
+	border-style: solid;
+	color: #C6FEC2 
+}
+.coo3{
+	position: absolute;
+	top: -60%;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo33{
+	position: absolute;
+	top: -60%;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo333{
+	position: absolute;
+	top: 170%;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co3:hover .coo3{
+	display: block;
+}
+.co3:hover .coo33{
+	display: block;
+}
+.co3:hover .coo333{
+	display: block;
+}
+
+.co4{
+	position: absolute;
+	top: 420%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color: #000000;
+	background-color:#000000;
+	border-style: solid;
+	color: #AEFCE2 ;
+}
+
+.coo4{
+	position: absolute;
+	top: -110px;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo44{
+	position: absolute;
+	top: -110px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo444{
+	position: absolute;
+	top: 25px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co4:hover .coo4{
+	display: block;
+}
+.co4:hover .coo44{
+	display: block;
+}
+.co4:hover .coo444{
+	display: block;
+}
+.co5{
+	position: absolute;
+	top: 430%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color: #000000;
+	background-color:#000000;
+	border-style: solid;
+	color: #8EB5F5 ;
+}
+
+.coo5{
+	position: absolute;
+	top: -200px;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo55{
+	position: absolute;
+	top: -200px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo555{
+	position: absolute;
+	top: -55px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co5:hover .coo5{
+	display: block;
+}
+.co5:hover .coo55{
+	display: block;
+}
+.co5:hover .coo555{
+	display: block;
+}
+
+.co6{
+	position: absolute;
+	top: 440%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color: #000000  ;
+	background-color:#000000;
+	border-style: solid;
+	color: #A78EF5 ;
+}
+
+.coo6{
+	position: absolute;
+	top: -280px;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo66{
+	position: absolute;
+	top: -280px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo666{
+	position: absolute;
+	top: -140px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co6:hover .coo6{
+	display: block;
+}
+.co6:hover .coo66{
+	display: block;
+}
+.co6:hover .coo666{
+	display: block;
+}
+
+
+.co7{
+	position: absolute;
+	top: 450%;
+	left: 10%;
+	width: 15%;
+	height: 8%;
+	background-color: #000000;
+	background-color:#000000;
+	border-style: solid;
+	color: #FBB9FB ;
+}
+
+.coo7{
+	position: absolute;
+	top: -360px;
+	left: 150%;
+	width: 220%;
+	height: 428%;
+	background-color: #DCF9DA  ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+.coo77{
+	position: absolute;
+	top: -360px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.coo777{
+	position: absolute;
+	top: -220px;
+	left: 380%;
+	width: 160%;
+	height: 204%;
+	background-color: #DCF9DA ;
+	border-style: solid;
+	color: #CDF877 ;
+	display: none;
+}
+
+.co7:hover .coo7{
+	display: block;
+}
+.co7:hover .coo77{
+	display: block;
+}
+.co7:hover .coo777{
+	display: block;
+}
+.tou{
+position: absolute;
+background-color: #36F9D8;
+font-family:titulop3;
+width: 60%;
+left: 5%;
+}
+.cccv{
+	position: absolute;
+	top: 155%;
+	left: 70%;
+	width: 23%;
+	height: 30%;
+	background-image: url(ima1.jpg); 
+	z-index: 2;
+	
+}
+.cccv:hover 
+{
+color: transparent;
+}
+.cccv:hover .letra{
+	color: transparent;
+}
+
+.co8{
+	position: absolute;
+	top: 400%;
+	left: 10%;
+	width: 10%;
+	height: 8%;
+	background-color: transparent;
+}
+.tuy{
+position: absolute;
+top: 240%;
+left: 70%;
+width: 20%;
+height: 40%;
+border-radius: 1000%;
+background-color: #FFFFFF; 
+border: 
+}
+.res{
+position: absolute;
+top: 285%;
+left: 10%;
+color: #66F650;
+font-size: 450%;
+font-family: titulop2; 
+
+
+
+
+}

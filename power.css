@@ -1,0 +1,161 @@
+.l4{
+	position: absolute;
+	top: 184%;
+	left: 13%;
+	color: pink;
+	font-family:titulop3;
+	font-size: 700%;
+	animation-iteration-count: infinite;
+	animation-name: titulo;
+	animation-duration: 5s;
+}
+
+@keyframes titulo{
+	0%{ color: #FD1532; }
+	16%{ color: #FAED27; }
+	16%{ color: #FAED27; }
+	32%{ color: #55FF00; }
+	48%{ color: #00FFC5; }
+	64%{ color: #0036FF; }
+	80%{ color: #4D00FF; }
+	96%{ color: #F300FF; }
+}
+
+.cc{
+	position: absolute;
+	top: 240%;
+	left: 10%;
+	width: 53%;
+	height: 30%;
+	background-color: #F6CB50 ;
+	border-style: solid;
+	color: #FBCF72;
+}
+
+.cc2{
+	position: absolute;
+	top: 155%;
+	left: 70%;
+	width: 23%;
+	height: 30%;
+	background-color: #36F965;
+	z-index: 2;
+	
+}
+
+.cc2:hover
+{
+	background-image: url(ima1.jpg);
+}
+.cc2:hover .letra{
+	color: transparent;
+}
+.l5{
+	position: absolute;
+	top: 350%;
+	left: 40%;
+	color: pink;
+	font-family:titulop3;
+	font-size: 400%;
+	animation-iteration-count: infinite;
+	animation-name: titulo;
+	animation-duration: 5s;
+	z-index: 5;
+}
+
+.cc3{
+	position: absolute;
+	top: 7%;
+	left: 0%;
+	width: 37%;
+	height: 10%;
+	background-color: #FCAEF9;
+	border-style: solid;
+	color: #FAC465;
+	
+}
+.cc4{
+	position: absolute;
+	top: 57%;
+	left: 26%;
+	width: 50%;
+	height:33%;
+	background-color: #36F9D6;
+	border-style: solid;
+	color: #FBCF72;
+	
+}
+.cc5{
+	position: absolute;
+	top: 7%;
+	left:59%;
+	width: 40%;
+	height:10%;
+	background-color: #FCAEF9;
+	border-style: solid;
+	color: #FAC465;
+	
+}
+
+.cc6{
+	position: absolute;
+	top: 329%;
+	left: 20%;
+	width: 60%;
+	height: 25%;
+	background-color: #F9E7DA;
+	border-style: solid;
+	color: #FBCF72;
+}
+
+.ani{
+	position: absolute;
+	top: 307%;
+	left: 15%;
+	width:45%;
+	height: 105%;
+    background-image: url(ani.png);
+	
+	animation-iteration-count: infinite;
+	animation-name: tituloo;
+	animation-duration: 5s;
+}
+
+.ani2{
+	position: absolute;
+	top: 322%;
+	left: 65%;
+	width: 5%;
+	height: 5%;
+	background-color: #f00fff;
+	border-style: solid;
+	color: #FBCF72;
+	animation-iteration-count: infinite;
+	animation-name: titulooo;
+	animation-duration: 5s;
+}
+@keyframes tituloo{
+	0%{ top: 297%;left: 15%; }
+	5%{ top: 299%;left: 17%; }
+	10%{ top: 301%;left: 19%; }
+	15%{ top: 303%;left: 21%; }
+	20%{ top: 305%;left: 23%;}
+	25%{top: 307%;left: 25%; }
+	30%{ top: 309%;left: 27%;}
+	35%{ top: 311%;left: 29%;}
+	40%{ top: 313%;left: 31%;}
+	45%{ top: 315%;left: 33%; }
+}
+
+@keyframes titulooo{
+	0%{top: 322%;left: 65%; }
+	5%{ top: 320%;left: 67%; }
+	10%{ top: 318%;left: 69%; }
+	15%{ top: 316%;left: 71%; }
+	20%{ top: 314%;left: 73%;}
+	25%{top: 312%;left: 75%; }
+	30%{ top: 310%;left: 77%;}
+	35%{ top: 308%;left: 79%;}
+	40%{ top: 306%;left: 81%;}
+	45%{ top: 304%;left: 83%; }
+}

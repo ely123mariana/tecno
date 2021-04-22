@@ -9,13 +9,60 @@ body{
 	height: 50%;
 	margin-left: 10%;
 }
-#captura{
-	width: 180%;
-	height: 90%;
-	margin-left: 40%;
+.captura{
+	width: 30%;
+	height: 70%;
+	left: 20%;
+	top: 100%;
 }
 
+.titulo{
+	position: absolute;
+	top: 3%;
+	font-size: 50%;
+	color:#73F238;
+	font-family: titulop4;
+	left: 38%;
+	z-index: 1;
+}
+.tituloy{
+	position: absolute;
+	top: 2%;
+	font-size: 500%;
+	color:#AF60E2;
+	font-family: titulop1;
+	left: 38%;
+	z-index: 1;
+}
+.titulo1{
+	position: absolute;
+	top: 18%;
+	font-size: 475%;
+	color:#AF60E2;
+	font-family: titulop2;
+	-webkit-text-stroke: 2px black;
+ 	color: #4CD1F1; 
+	left: 5%;
+	z-index: 1;
+}
+@font-face{
+	font-family: titulop1;
+	src: url(titulo1.ttf);
+}
 
+@font-face{
+	font-family: titulop2;
+	src: url(titulo2.otf);
+}
+
+@font-face{
+	font-family: titulop3;
+	src: url(titulo3.ttf);
+}
+@font-face{
+	font-family: titulop4;
+	src: url(titulo4.otf);
+}
 
 
 #boton1{
@@ -144,6 +191,14 @@ body{
 	color: #C7E3EA;
 	font-size: 55%;
 }
+.bonton{
+	position: absolute;
+top: 10%;
+left: 10%;
+width: 10%;
+background-color: #FFFFFF; 
+border: 
+}
 
 #entregasp2 a{
 	color: black;
@@ -198,8 +253,12 @@ body{
 #mr{
 width: 50%;
 height: 150px;
+}
+#libre{
 
-
-
+left: 300px;
+top: 30px;
 
 }
+
+
